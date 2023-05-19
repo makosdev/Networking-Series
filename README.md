@@ -13,7 +13,7 @@ Each topic in the series is organized in a structured manner, providing a clear 
 - OSI Model and TCP/IP Protocol Suite √
 - Ethernet and LAN Technologies √
 - IP Addressing and Subnetting √
-- Routing and Switching
+- Routing and Switching √
 - Wireless Networking
 - Network Security
 - Network Troubleshooting and Diagnostics
