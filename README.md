@@ -14,7 +14,7 @@ Each topic in the series is organized in a structured manner, providing a clear 
 - Ethernet and LAN Technologies √
 - IP Addressing and Subnetting √
 - Routing and Switching √
-- Wireless Networking
+- Wireless Networking √
 - Network Security
 - Network Troubleshooting and Diagnostics
 - Network Monitoring and Management
