@@ -16,7 +16,7 @@ Each topic in the series is organized in a structured manner, providing a clear 
 - Routing and Switching √
 - Wireless Networking √
 - Network Security √
-- Network Troubleshooting and Diagnostics
+- Network Troubleshooting and Diagnostics √
 - Network Monitoring and Management
 
 ## Repository Structure
